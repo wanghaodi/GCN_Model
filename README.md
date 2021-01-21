@@ -1,2 +1,2 @@
-# GCN_Model
- GCN_Model
+# gcn_analysis
+GCNs Analysis: Visualization, Error Cases etc.
